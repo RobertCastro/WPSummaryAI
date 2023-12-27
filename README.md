@@ -1,0 +1,2 @@
+# WPSummaryAI
+Generate AI Summary 
